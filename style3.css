@@ -1,0 +1,36 @@
+.logo {
+    padding-top: 0px;
+    padding-left: 75px;
+      height:300px;
+  }
+  /*Menu Section Menu Section*/
+  nav {
+    background-color: skyblue;
+      text-align: center;
+      padding:25px 25px;
+  }
+  nav a {
+  
+      color: black;
+      text-decoration: none;
+      font-size:18px;
+      padding:2px 10px;
+      font-weight:500;
+  }
+  /********* Design Logo and Menu section CSS End **********/
+  .logo1{
+    height: 400px;
+   width: 1310px;
+  
+  
+  }
+  .container{
+    border: 5px solid #666;
+  
+    padding-left: 0px;
+    padding-right:0px ;
+  }
+  .footer{
+    background-color: skyblue;
+    padding:25px 25px;
+  }  
